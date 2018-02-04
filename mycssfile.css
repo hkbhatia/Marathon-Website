@@ -1,0 +1,29 @@
+ /*
+      Bhatia, Hitesh
+      Project #3
+      Fall 2017
+      821439483
+ */
+
+
+body{
+		padding-top:40px;
+	}
+	.slider-height{
+		height:600px;
+    display: inline-block;
+    overflow: hidden;
+	}
+img {
+    width: 100%;
+    max-height: 100%;
+   	}
+
+    .inputfile {
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+}

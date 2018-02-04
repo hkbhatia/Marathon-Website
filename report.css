@@ -1,0 +1,49 @@
+/*
+  Assignment 3
+  Bhatia, Hitesh
+  821439483*/
+ 
+
+h1 {
+    text-align: center;
+    }
+   /* 
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    font-family: arial;
+    font-size: 120%;
+    }
+    
+td {
+    border: 1px solid #AAA;
+    padding: 5px;
+    }
+    
+tr:nth-child(even) {
+    background-color: #CCC;
+    }
+    */
+
+body{
+        padding-top:40px;
+    }
+    .slider-height{
+        height:600px;
+    display: inline-block;
+    overflow: hidden;
+    }
+
+.table_heading
+{
+        text-align: center;
+    font-size: large;
+    background-color: aliceblue;
+}
+.errorData{
+        color: red;
+    font-size: 20px;
+    height: 50px;
+    text-align: center;      
+}
